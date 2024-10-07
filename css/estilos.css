@@ -1,16 +1,54 @@
-.caja1{
+/*body{
+    background-color: green;
+}
+p{
+    background-color: #ff0000 ;
+}
+div{
+    background-color: hsl(60, );
+} */
+/* .caja1{
     width: 150px;
     height: 150px;
-    background-color: rgb(225, 174, 255);
+    background-color: rgb(12,12,12);
 }
-
 .caja2{
     width: 150px;
     height: 150px;
-    background-color: #FF78C4;
 }
 .caja3{
     width: 150px;
     height: 150px;
-    background-color: hsl(280, 75%, 89%);
+    background-color: hsl(60, 100%, 50%);
+} */
+
+
+
+
+
+
+
+
+/* *{
+    color: orange;
+} */
+
+/* div{
+    color: green;
+} */
+
+.caja1 {
+    color: red;
+}
+#foo{
+    color: orange;
+}
+a[title]{
+    color: green;
+}
+button:hover{
+    background-color: green;
+}
+input:disabled{
+    border: 2px solid orange;
 }
